@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-tll-007-case-studies-in-social-and-ethical-responsibilities-of-computing-fall-2021/2fb0153daef8624358c7cb7e59dda4c9_res-tll-007f21-th.jpg
 file_size: 15175
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Many types of data, including maps, are used in SERC''s case studies which
     span departments and topics. (Courtesy of [NASA](https://www.nasa.gov/image-feature/nyc-last-night).
